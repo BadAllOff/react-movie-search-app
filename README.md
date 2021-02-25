@@ -1,5 +1,6 @@
 # React Movie Search
 
-BEM
+Small app fetching data from Movie https://www.themoviedb.org/ API accrodign to your request. 
+Give a try.
 
-[link](https://github.com/facebook/create-react-app)
+![alt text](image/image.png)
