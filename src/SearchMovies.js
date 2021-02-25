@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-const API_KEY = "5dcf7f28a88be0edc01bbbde06f024ab"
+const API_KEY = "9b14ed54fd01710f9991887b1e2233b5"
 
 export default function SearchMovies(){
     
